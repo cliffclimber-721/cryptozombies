@@ -1,6 +1,6 @@
 pragma solidity >=0.5.0 <0.6.0;
 
-import "chapter1/lesson4/2-withdraws.sol";
+import "chapter1/lesson4-zombieBattle/2-zombiehelper.sol";
 
 // we use keccak256 hash function, the best source of randomness in Solidity
 // but this method is vulnerable to attacks by a dishonest node

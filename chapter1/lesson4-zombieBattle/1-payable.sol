@@ -3,7 +3,7 @@
 
 pragma solidity >=0.5.0 <0.6.0;
 
-import "chapter1/lesson3/7-public_security.sol";
+import "chapter1/lesson3-advancedSolidity/7-zombiefeeding.sol";
 
 contract ZombieHelper is ZombieFeeding {
 

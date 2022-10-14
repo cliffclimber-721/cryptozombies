@@ -1,8 +1,6 @@
-// this is zombiefeeding.sol
-
 pragma solidity >=0.5.0 <0.6.0;
 
-import "chapter1/lesson2/3-require.sol";
+import "chapter1/lesson2-zombieAttack/3-require.sol";
 
 contract KittyInterface {
     function getKitty(uint256 _id) external view returns (

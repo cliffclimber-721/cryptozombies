@@ -1,6 +1,6 @@
 pragma solidity >=0.5.0 <0.6.0;
 
-import "./chapter1/lesson3/ownable.sol";
+import "./chapter1/lesson3-advancedSolidity/ownable.sol";
 
 contract ZombieFactory is Ownable {
 
